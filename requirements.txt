@@ -1,0 +1,10 @@
+
+streamlit
+google-genai
+python-dotenv
+requests
+ddgs
+pandas
+python-docx
+reportlab
+pytest
