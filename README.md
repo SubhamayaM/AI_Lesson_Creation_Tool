@@ -1,3 +1,4 @@
+
 # AI-Powered Lesson Creation Tool
 
 ## Overview
@@ -88,3 +89,7 @@ streamlit run app.py
 Open the local URL displayed in the terminal.
 
 ## Test Sc
+
+# AI_Lesson_Creation_Tool
+AI-powered lesson creation, research, and instructional quality evaluation platform.
+ 
